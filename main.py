@@ -21,7 +21,7 @@ frame_tela.grid(row=0, column=0)
 frame_corpo = Frame(janela, width=230, height=270)
 frame_corpo.grid(row=1, column=0)
 
-#criando label
+#criando visor
 app_label= Label(frame_tela, text="123456789", width=16, height=2, padx=2, relief=FLAT, anchor="e", justify=RIGHT, font=("Ivy 18"), bg=cor3, fg=cor2)
 app_label.place(x=0, y=0)
 
