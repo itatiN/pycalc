@@ -1,4 +1,5 @@
-# Calculadora feita em Python
+# Calculator made in Python
 
-## Como Rodar
-So baixar o arquivo exe para windows e ja esta funcionando :)
+## How to run
+Download the exe file for windows and it's working :) <br>
+On linux or macOS use: git clone https://github.com/itatiN/pycalc and compile it
